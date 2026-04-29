@@ -156,6 +156,35 @@ color:white;
 text-align:center;
 padding:20px;
 }
+@media(max-width:768px){
 
+.hero{
+padding:80px 20px;
+}
+
+.hero h1{
+font-size:34px;
+}
+
+.products{
+grid-template-columns:1fr;
+}
+
+.card img{
+height:220px;
+}
+
+header{
+flex-direction:column;
+gap:15px;
+text-align:center;
+}
+
+nav a{
+display:inline-block;
+margin:8px;
+}
+
+}
 
 
