@@ -80,14 +80,6 @@ height:180px;
 object-fit:cover;
 }
 
-footer{
-background:#1f2937;
-color:white;
-text-align:center;
-padding:20px;
-}
-
-
 .contact-form{
 max-width:700px;
 margin:auto;
@@ -126,3 +118,13 @@ border-radius:8px;
 font-weight:bold;
 cursor:pointer;
 }
+
+footer{
+background:#1f2937;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+
+
